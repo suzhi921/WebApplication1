@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index(string a)   
+        public IActionResult Index(string b)   
         {   
             //1111111111111
             return View();
